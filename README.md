@@ -177,10 +177,10 @@
 <a href="https://twitter.com/_DHANOLA" target="_blank">
   <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/dhanola/" target="_blank">
+<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" target="_blank">
+<a href="mailto:rahuldhanola31@gmail.com" >
   <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013628134596">
