@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋
+<!-- ### Hi there 👋
 
 ## I'm Rahul Dhanola.
 
@@ -14,7 +14,46 @@
 <br>
 
 
+ -->
+ 
+ 
+ 
+ 
 
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0422.gif" > 
+                  
+  <br>
+
+  </p>
+  
+
+
+<p align="center">
+
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=Hey+It's+Rahul+Dhanola+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;In+Computer+Science+%26+Engineering;With+Specialization+In+%E2%9A%99%EF%B8%8F;Artificial+Intelligence+%26+Machine+Learning;From+UPES+Dehradun+%F0%9F%8F%AB;I+Am+a+Data+Science+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Rahul Dhanola" height="55" width="700">
+
+
+
+
+</p>
+
+
+
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0422.gif" > 
+                  
+  <br>
+
+  </p>
+  
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0447.gif" width=9000 height=2> 
+                  
+  <br>
 
 
 
@@ -142,9 +181,33 @@
 
 <br>
 
- <hr>
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif" width=9000> 
+                  
+  <br>
+
+  
+  
+
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/blob/DH%40NOLA/profile-3d-contrib/profile-night-rainbow.svg" alt="night-contrib"></center>
+</p>
 
 
+
+
+
+ <br> 
+ 
+  
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0513.gif" width=9000 height=50> 
+                  
+  <br>
 
 
 
