@@ -32,7 +32,7 @@
 <p align="center">
 
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=Hey+It's+Rahul+Dhanola+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;In+Computer+Science+%26+Engineering;With+Specialization+In+%E2%9A%99%EF%B8%8F;Artificial+Intelligence+%26+Machine+Learning;From+UPES+Dehradun+%F0%9F%8F%AB;I+Am+a+Data+Science+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Rahul Dhanola" height="55" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82;Hey+It's+Rahul+Dhanola+%F0%9F%91%8B%F0%9F%8F%BC;I+Am+Currently+Pursuing+My+Bachelor's+%F0%9F%8E%93;In+Computer+Science+%26+Engineering;With+Specialization+In+%E2%9A%99%EF%B8%8F;Artificial+Intelligence+%26+Machine+Learning;From+UPES+Dehradun+%F0%9F%8F%AB;I+Am+a+Data+Science+Enthusiast+%F0%9F%93%88;And+Currently+Learning;Business+Intelligence+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Rahul Dhanola" height="55" width="700">
 
 
 
@@ -268,7 +268,9 @@
   
   
   
-  
+  <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif">
   
   
   
@@ -277,3 +279,21 @@
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
+
+
+
+ 
+<br>
+ 
+<br>
+ 
+<br>
+
+
+
+<h2 align='left'>Thank You ❤</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>	
+ 
+<br>
