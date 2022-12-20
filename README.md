@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 &nbsp;
   
-  <img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="25">
+  <img src="https://www.spyder-ide.org/static/images/spyder_logo.png" height="25">
 &nbsp;
   
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
@@ -172,19 +172,19 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <img align="center" alt="Rahul Dhanola | Linkedin" src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/_DHANOLA" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  <img align="center" alt="Rahul Dhanola | Twitter"  src="https://camo.githubusercontent.com/d7cb1dd1cb1934a60f80c33b839975af5ce9e376a967b26e14290801ba30eda4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f267374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <img align="center" alt="Rahul Dhanola | Instagram"  src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
 </a> &nbsp;&nbsp;
 <a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Rahul Dhanola | Gmail"  src="https://camo.githubusercontent.com/84e94579ca1893d0bfe346ab535663149c6f8771e2d84f51a71c3066fbf366cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d666666666666" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+    <img align="center" alt="Rahul Dhanola | Facebook" src="https://camo.githubusercontent.com/6af8fa17fa7c95d44e4ddd01bca82c16a0955206a8daad157606f2d39368169b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d3162373465342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" />
 </a> &nbsp;&nbsp;
 <p>
   
@@ -210,8 +210,7 @@
   
   
   
-  
   <br>
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/DHANOLA/DHANOLA/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
