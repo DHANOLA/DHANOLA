@@ -224,11 +224,16 @@
 
 
 
- <br> 
  
- <hr>
- 
- <br>
+<br>
+
+
+<p  align="center">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif" width=9000> 
+                  
+  <br>
+
+  
 
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
@@ -281,16 +286,7 @@
 </p>
 
 
-
- 
 <br>
- 
-<br>
- 
-<br>
-
-
-
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
