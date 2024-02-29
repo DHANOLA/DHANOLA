@@ -68,15 +68,15 @@
   
 <p  align="center">
 
-<img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="25"/>  
+<img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" height="25"/>  
   &nbsp;
-<img src="https://camo.githubusercontent.com/ec263c8eb4b0c40ad76855b9bc9d1168a715a30d72bb3e4634650c12e2688989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3035313232413f7374796c653d666c6174266c6f676f3d65636c697073652d696465266c6f676f436f6c6f723d324332323535" height="25"/>
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="25"/>
   </p>
   
   <p  align="center">
 
   
-<img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" height="25"/>
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   &nbsp;
@@ -173,7 +173,7 @@
 <br>
 <p align="center">
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" >
+  <a href="https://github.com/DHANOLA/" >
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
@@ -215,7 +215,7 @@
 <br>
 <p align="centre">
  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![DHANOLA GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
 
@@ -239,21 +239,11 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Linkedin" src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/_DHANOLA" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Twitter"  src="https://camo.githubusercontent.com/d7cb1dd1cb1934a60f80c33b839975af5ce9e376a967b26e14290801ba30eda4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f267374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/rahul_dhanola/" target="_blank">
-  <img align="center" alt="Rahul Dhanola | Instagram"  src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" />
-</a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail"  src="https://camo.githubusercontent.com/84e94579ca1893d0bfe346ab535663149c6f8771e2d84f51a71c3066fbf366cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d666666666666" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" src="https://camo.githubusercontent.com/6af8fa17fa7c95d44e4ddd01bca82c16a0955206a8daad157606f2d39368169b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d3162373465342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" />
-</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dhanola/" target="_blank"><img align="center" alt="Rahul Dhanola | Linkedin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="35" width="25"></a> &nbsp;&nbsp;
+<a href="https://twitter.com/_DHANOLA" target="_blank"><img align="center" alt="Rahul Dhanola | Twitter"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/a1232e34553634c5363aa62c8d1b02161a4438e1/svgs/brands/x-twitter.svg"  height="25"  width="25" style="background-color:red;"></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/rahul_dhanola/" target="_blank"><img align="center" alt="Rahul Dhanola | Instagram"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
+<a href="mailto:rahuldhanola31@gmail.com" ><img align="center" alt="Rahul Dhanola | Gmail"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100013628134596"><img align="center" alt="Rahul Dhanola | Facebook" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
 <p>
   
 <br>
