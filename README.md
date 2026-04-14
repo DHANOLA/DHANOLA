@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
 &nbsp;
   
-  <img src="https://www.spyder-ide.org/static/images/spyder_logo.png" height="25">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Spyder_logo_2021.svg/1280px-Spyder_logo_2021.svg.png" height="45">
 &nbsp;
   
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
@@ -133,9 +133,8 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DHANOLA&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img  align="center"  src="https://streak-stats.demolab.com?user=DHANOLA&theme=chartreuse-dark&hide_border=true&border_radius=4.4&short_numbers=true" alt="GitHub Streak" />
+  
 
 
   
@@ -174,7 +173,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/DHANOLA/" >
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy-sigma-one.vercel.app/?username=DHANOLA&theme=onestar" alt="TROPHY" />
     </a>
 </div>
 </p>
