@@ -192,7 +192,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/blob/DH%40NOLA/profile-3d-contrib/profile-night-rainbow.svg" alt="night-contrib"></center>
+  <img src="https://github.com/DHANOLA/DHANOLA/blob/DH%40NOLA/profile-3d-contrib/profile-gitblock.svg" alt="gitblock"></center>
 </p>
 
 
@@ -253,7 +253,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+  <img src="https://komarev.com/ghpvc/?username=DHANOLA&abbreviated=true" />
 </p>
    
   
